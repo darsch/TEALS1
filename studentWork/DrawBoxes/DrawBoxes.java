@@ -9,5 +9,10 @@ public class DrawBoxes {
         System.out.println("|      |");
         System.out.println("|      |");
         System.out.println("+------+");
+        System.out.println();
+        System.out.println("+------+");
+        System.out.println("|      |");
+        System.out.println("|      |");
+        System.out.println("+------+");
     }  
 }
